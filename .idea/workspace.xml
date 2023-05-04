@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11e834ac-7715-498c-baa2-669b6b0b0452" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2JtawaFf0Hxgs3DMTOtpHso2EZv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Projects/darugheh_backend" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp8-0\htdocs\model" />
+      <recent name="C:\xampp8-0\htdocs\controllers" />
+      <recent name="C:\xampp8-0\htdocs\views\dashboard\products" />
+      <recent name="C:\xampp8-0\htdocs\views\dashboard\categories" />
+      <recent name="C:\xampp8-0\htdocs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp8-0\htdocs\libs" />
+      <recent name="C:\xampp8-0\htdocs\views" />
+      <recent name="C:\xampp8-0\htdocs\includes\client" />
+      <recent name="C:\xampp8-0\htdocs\assets\client" />
+      <recent name="C:\xampp8-0\htdocs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11e834ac-7715-498c-baa2-669b6b0b0452" name="Default Changelist" comment="" />
+      <created>1672900073091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672900073091</updated>
+      <workItem from="1672900074301" duration="9214000" />
+      <workItem from="1673003823358" duration="12149000" />
+      <workItem from="1673119126620" duration="39000" />
+      <workItem from="1673607871300" duration="10572000" />
+      <workItem from="1673630971230" duration="26000" />
+      <workItem from="1674213156538" duration="12462000" />
+      <workItem from="1674234814445" duration="65000" />
+      <workItem from="1674410000822" duration="98000" />
+      <workItem from="1675423316597" duration="8328000" />
+      <workItem from="1675435495825" duration="4231000" />
+      <workItem from="1675457040568" duration="127000" />
+      <workItem from="1676027847320" duration="14645000" />
+      <workItem from="1676050146927" duration="187000" />
+      <workItem from="1676632896866" duration="14058000" />
+      <workItem from="1677736084840" duration="232000" />
+      <workItem from="1677842052524" duration="3802000" />
+      <workItem from="1677847764036" duration="8357000" />
+      <workItem from="1678446080888" duration="6075000" />
+      <workItem from="1678453007971" duration="8779000" />
+      <workItem from="1678675559833" duration="260000" />
+      <workItem from="1679051599291" duration="10216000" />
+      <workItem from="1679390316504" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
